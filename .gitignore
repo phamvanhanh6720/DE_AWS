@@ -3,3 +3,5 @@ Project2_Cloud_DWH/dwh.cfg
 __pycache__/
 .DS_Store
 dwh.cfg
+.vscode
+Project4_Airflow.zip
